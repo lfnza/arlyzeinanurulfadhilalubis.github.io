@@ -28,12 +28,10 @@ section, footer {
 	border-radius: 50%;
 }
 
-.s12 .card-panel  {
+.col .m4 .s12 .card-panel  {
 	height: 400px;
 }
-.product .card-panel {
-	height: 400px;
-}
+
 
 a h4 {
 	color: mediumpurple	;
