@@ -28,7 +28,10 @@ section, footer {
 	border-radius: 50%;
 }
 
-.m4 .s12 .card-panel  {
+.s12 .card-panel  {
+	height: 400px;
+}
+.m4 .card-panel {
 	height: 400px;
 }
 
